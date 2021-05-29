@@ -1,0 +1,21 @@
+"java.configuration.runtimes": [
+        {
+            "name": "JavaSE-1.8",
+            "path": "/usr/local/jdk1.8.0_201"
+        },
+        {
+            "name": "JavaSE-11",
+            "path": "/usr/local/jdk-11.0.3",
+            "sources": "/usr/local/jdk-11.0.3/lib/src.zip",
+            "javadoc": "https://docs.oracle.com/en/java/javase/11/docs/api",
+            "default": true
+        },
+        {
+            "name": "JavaSE-12",
+            "path": "/usr/local/jdk-12.0.2"
+        },
+        {
+            "name": "JavaSE-13",
+            "path": "/usr/local/jdk-13"
+        }
+    ]
